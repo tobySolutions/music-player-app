@@ -6,6 +6,6 @@ This is a simple web app that is built with React and that uses the Seyi Vibez's
 
 Thanks for checking it out!
 
-Feel free to raise issues on this project of you find any. To contribute, check out:
+Feel free to raise issues on this project if you find any. To contribute, check out:
 
 - https://github.com/tobySolutions/food-delivery-app/blob/main/README.md
